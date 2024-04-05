@@ -21,7 +21,8 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 
 ## Model Architecture
 * Input Features: The model uses all columns from the application_df dataset except for the IS_SUCCESSFUL column as input features.
-* Neural Network Structure:
+
+## Neural Network Structure:
 * Number of Input Features: 116
 * Number of Neurons in First Hidden Layer: 80
 * Number of Neurons in Second Hidden Layer: 30
